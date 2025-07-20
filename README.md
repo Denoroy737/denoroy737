@@ -65,7 +65,7 @@ My toolkit for coding, trading, and slaying projects:
 ## 🤝 Let’s Team Up!
 Ready to vibe on code, charts, or anime? Hit me up! ☕️  
 <p align="center">
-  <a href="https://linkedin.com/in/denoroy737"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/prashant-sharma737"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
   <a href="https://x.com/denoroy737"><img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter/X" /></a>
   <a href="https://t.me/Gerovera"><img src="https://img.shields.io/badge/-Telegram-0088cc?logo=telegram&style=flat-square" alt="Telegram" /></a>
   <a href="mailto:denoroy737@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
