@@ -1,34 +1,115 @@
-<!-- GitHub Profile README.md for Deno Roy -->
+<div align="center">
+  <h1>👋 Yo, I'm Deno Roy! 🎮✨</h1>
+  <p><em>Vibing to epic beats 🎧 | Coding trading bots 🤖 | Charting markets like a shinobi 📈</em></p>
+  <p>A Python-slinging, algo-trading, anime-loving dreamer on a quest to conquer code and markets! 🚀</p>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" alt="Anime Wave" />
+</div>
 
-<h1 align="center">Hey, I'm Deno Roy 👋</h1>
+---
+
+## 🎧 My Vibe Statement
+🎶 + 🧠 + 📊 = *Ultimate Flow State*  
+From slicing through Python code like a samurai to backtesting strategies with ninja precision, I’m always chasing the next level. Add a lo-fi anime OST, and I’m unstoppable. Let’s grind, trade, and vibe! 🌌
+
+---
+
+## 🚀 Tech Stack & Arsenal
+My toolkit for coding, trading, and slaying projects:
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Chill+Coder+by+Day...+Algo+Trader+by+Night.;Building+AI+%E2%9A%99%EF%B8%8F+%7C+Trading+Bots+%F0%9F%9A%80+%7C+Side+Quests+on+the+Charts" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="lofi chill coding" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" height="30" title="Pandas" />
+  <img src="https://img.shields.io/badge/Backtrader-2C3E50?logo=python&logoColor=white&style=flat-square" height="30" title="Backtrader" />
+  <img src="https://img.shields.io/badge/TradingView-PineScript-blue?logo=tradingview&style=flat-square" height="30" title="TradingView" />
+  <img src="https://img.shields.io/badge/Telegram-Bot-0088cc?logo=telegram&style=flat-square" height="30" title="Telegram" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🧑‍💻 Self-taught dev blending code, charts, and AI  
-- 🔍 Currently building AI-powered trading bots & Telegram agents  
-- 🧠 Learning: Deep Learning, Quant Finance, and LLMs  
-- 💻 Side hustles: Fintech tools, Telegram GPT agents, screener bots  
-- 🌍 India-based | Speak Hinglish & Candlestick 😄  
-- 🧘 Chill mode: lofi beats, clean code, quiet grind
+## 📈 GitHub Stats & Grind
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denoroy737&show_icons=true&theme=tokyonight" width="45%" alt="Deno's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denoroy737&theme=tokyonight" width="45%" alt="Commit Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denoroy737&layout=compact&theme=tokyonight" width="45%" alt="Top Languages" />
+</div>
 
 ---
 
-### 🚀 Tech I'm Vibing With
+## 🧪 Epic Projects & Quests
+- 🤖 **Crypto Scanner Bot** 🪙: Real-time market scanner with Telegram alerts, ninja-fast.  
+- 📊 **TradingView RSI + Trend Strategy** 📈: PineScript strat with SL/TP and partial exits for max gains.  
+- 🧠 **AI Chart Pattern Shinobi** 🌌: TensorFlow-powered pattern recognition for trading edges.  
+- 🔍 **Swing Trading Auto Scanner** ⚔️: Screener bot for spotting high-probability setups.  
+- 🪄 **Desi Social Media Bot** 😎: Posting bot with Indian flair, powered by FastAPI + MongoDB.  
+- 💹 **Backtrader AI Framework** 🚀: MongoDB-backed trading system with AI-driven insights.
 
-```ts
-const stack = [
-  'Python', 'Pandas', 'PyTorch',
-  'LangChain', 'LLMs', 'Next.js',
-  'TailwindCSS', 'MongoDB', 'Telegram Bots',
-  'TradingView', 'Backtrader', 'Kite API'
-];
+*Level up with my [repos](https://github.com/denoroy737?tab=repositories)!*
+
+---
+
+## 🎯 My Mission & Endgame
+🌱 **Grinding Now**: Mastering AI x Finance for next-gen trading systems.  
+🧠 **Ultimate Quest**: Build an AI-powered "Aladdin" to dominate markets and automation.  
+📌 **Side Quests**: Sharpening trading edges, conquering college, and indie hacking like a pro.  
+
+---
+
+## 🤝 Let’s Team Up!
+Ready to vibe on code, charts, or anime? Hit me up! ☕️  
+<p align="center">
+  <a href="https://linkedin.com/in/denoroy737"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/denoroy737"><img src="https://img.shields.io/badge/-Twitter/X-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter/X" /></a>
+  <a href="https://t.me/denoroy737"><img src="https://img.shields.io/badge/-Telegram-0088cc?logo=telegram&style=flat-square" alt="Telegram" /></a>
+  <a href="mailto:denoroy737@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
+</p>
+
+---
+
+## 🎵 Now Playing
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?theme=dark" alt="Spotify Now Playing" />
+</div>
+
+---
+
+## 🧘 Flow State Code
+```bash
+while (true) {
+  play_anime_ost("lofi_beats") 🎶
+  run_trading_bot("crypto_scanner") 🤖
+  backtest_strategies("rsi_trend") 📈
+  dream_epic("ai_aladdin") 🚀
+}
+
+<div align="center">
+  <p><em>“Code like a shinobi. Trade like a tactician. Vibe like a legend.”</em></p>
+  <img src="https://media.giphy.com/media/LMcLIAnaBjD7BTXw4V/giphy.gif" width="150" alt="Anime Pixel Sword" />
+</div>
+
+<!-- Animated Typing Text -->
+<div align="center">
+  <span id="typed"></span>
+</div>
+<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+<script>
+  var typed = new Typed('#typed', {
+    strings: ['Python Shinobi', 'Algo Trader', 'AI Alchemist', 'Anime Dreamer'],
+    typeSpeed: 50,
+    backSpeed: 30,
+    loop: true
+  });
+</script>
+
+<!-- Pixel-Art Candlestick Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/0Z7Z9z7.png" width="100%" alt="Pixel Candlestick Divider" />
+</div>
+
