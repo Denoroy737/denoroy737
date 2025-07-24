@@ -71,45 +71,4 @@ Ready to vibe on code, charts, or anime? Hit me up! ☕️
   <a href="mailto:denoroy737@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
 </p>
 
----
-
-## 🎵 Now Playing
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?theme=dark" alt="Spotify Now Playing" />
-</div>
-
----
-
-## 🧘 Flow State Code
-```bash
-while (true) {
-  play_anime_ost("lofi_beats") 🎶
-  run_trading_bot("crypto_scanner") 🤖
-  backtest_strategies("rsi_trend") 📈
-  dream_epic("ai_aladdin") 🚀
-}
-
-<div align="center">
-  <p><em>“Code like a shinobi. Trade like a tactician. Vibe like a legend.”</em></p>
-  <img src="https://media.giphy.com/media/LMcLIAnaBjD7BTXw4V/giphy.gif" width="150" alt="Anime Pixel Sword" />
-</div>
-
-<!-- Animated Typing Text -->
-<div align="center">
-  <span id="typed"></span>
-</div>
-<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
-<script>
-  var typed = new Typed('#typed', {
-    strings: ['Python Shinobi', 'Algo Trader', 'AI Alchemist', 'Anime Dreamer'],
-    typeSpeed: 50,
-    backSpeed: 30,
-    loop: true
-  });
-</script>
-
-<!-- Pixel-Art Candlestick Divider -->
-<div align="center">
-  <img src="https://i.imgur.com/0Z7Z9z7.png" width="100%" alt="Pixel Candlestick Divider" />
-</div>
 
