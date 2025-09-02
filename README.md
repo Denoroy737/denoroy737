@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Yo, I'm Deno Roy! 🎮✨</h1>
+  <h1>👋 Deno Roy! 🎮✨</h1>
   <p><em>Vibing to epic beats 🎧 | Coding trading bots 🤖 | Charting markets like a shinobi 📈</em></p>
   <p>A Python-slinging, algo-trading, anime-loving dreamer on a quest to conquer code and markets! 🚀</p>
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" alt="Anime Wave" />
