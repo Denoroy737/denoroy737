@@ -1,4 +1,4 @@
 <div align="center">
-  <h1> hi, Its Deno Roy!</h1>
+  <h1> Its Deno Roy!</h1>
  </div>
 
